@@ -202,26 +202,4 @@
 }
 
 
-
-
-
-.comments{
-    position: absolute;
-    left: 10px;
-    bottom: 200px;
-    width: 90%;
-    height: 150px;
-    text-align: left;
-}
-
-.gf{
-    text-decoration: none;
-    color: #6976f3
-}
-.ad{
-    position: absolute;
-    bottom: 10px;
-    left: 10px;
-    text-align: left;
-}
 }
