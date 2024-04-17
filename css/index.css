@@ -99,16 +99,9 @@
     text-align: left;
 }
 
-.ad{
-    position: absolute;
-    bottom: 10px;
-    left: 20px;
-    text-align: left;
-}
-
 .gf{
     text-decoration: none;
-    color: #6976f3
+    color: #00a142
 }
 
 /*ここからスマホ用*/
@@ -198,7 +191,7 @@
 
 .gf{
     text-decoration: none;
-    color: #6976f3
+    color: #00a142
 }
 
 
