@@ -99,9 +99,14 @@
     text-align: left;
 }
 
+
 .gf{
     text-decoration: none;
     color: #00a142
+}
+
+.text4{
+    color: #b5b5b5;
 }
 
 /*ここからスマホ用*/
@@ -193,6 +198,5 @@
     text-decoration: none;
     color: #00a142
 }
-
 
 }
